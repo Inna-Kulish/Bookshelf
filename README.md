@@ -4,7 +4,14 @@ https://violetanaboy.github.io/project-team-8/
 
 ## Project Overview
 
-Bookshelf is a JavaScript-based web application that allows users to organize, display, and manage book collections. The app provides an intuitive interface for browsing and interacting with book data, leveraging a modern frontend tech stack for an optimized user experience.
+Application for choosing books. Adaptive design, modal window, mobile menu,
+shopping list, support window, pagination. Books are organized by categories for easy
+searching. Additionally, integrated a dark mode feature.
+
+Team project.
+
+I developed a modal window. Implemented a local storage feature to save favorite
+books in the shopping list, enabling users to curate their reading lists.
 
 ## Features
 
